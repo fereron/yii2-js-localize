@@ -8,5 +8,6 @@
     "psr-4": {
       "Fereron\\JsLocalization\\": "src"
     }
-  }
+  },
+  "minimum-stability": "stable"
 }
