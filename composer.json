@@ -2,7 +2,7 @@
   "name": "fereron/yii2-js-localize",
   "description": "JsLocalizator is a Yii2 extension aiming to port the native Yii2 translations module to javascript.",
   "require": {
-    "yiisoft/yii": "~2.0"
+    "yiisoft/yii2": "~2.0"
   },
   "autoload": {
     "psr-4": {
