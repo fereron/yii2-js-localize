@@ -9,5 +9,6 @@
       "Fereron\\JsLocalization\\": "src"
     }
   },
+  "version": "1.0.0",
   "minimum-stability": "stable"
 }
